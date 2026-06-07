@@ -22,6 +22,25 @@ export default function Projects({ darkMode }) {
       glowShadow: 'hover:shadow-neon-cyan hover:border-cyber-cyan border-cyan-500/20',
       tagColor: 'bg-cyber-cyan/5 border-cyber-cyan/20 text-cyber-cyan'
     },
+        {
+      id: 'Flash Meet',
+      title: 'Flash Meet',
+      subtitle: 'Virtual Meeting Platform',
+      description: 'A cutting-edge virtual meeting platform that facilitates seamless communication and collaboration for remote teams.',
+      features: [
+        'High-quality video conferencing with screen sharing capabilities',
+        'Real-time collaboration tools for document editing and brainstorming',
+        'Secure and encrypted communication channels',
+        'Intuitive user interface designed for ease of use'
+      ],
+      tech: ['React.js', 'Redux', 'Tailwind CSS', 'Vite', 'Node.js & Express','Ten stack query'],
+      deployUrl: 'https://zapmeet.onrender.com/',
+      githubUrl: 'https://github.com/Raghwendrapratapsingh2005',
+      icon: <ShoppingBag className="w-6 h-6 text-cyber-cyan" />,
+      accentColor: 'cyber-cyan',
+      glowShadow: 'hover:shadow-neon-cyan hover:border-cyber-cyan border-cyan-500/20',
+      tagColor: 'bg-cyber-cyan/5 border-cyber-cyan/20 text-cyber-cyan'
+    },
     {
       id: 'DOCTOR-APPOITMENT-BOOKING-PORTAL',
       title: 'Doctor Appointment Booking Portal',
