@@ -16,7 +16,7 @@ export default function Projects({ darkMode }) {
         'Optimized page loads and smooth image assets caching configurations'
       ],
       tech: ['React.js', 'Redux', 'Tailwind CSS', 'Vite', 'Node.js & Express','Mongodb compass'],
-      githubUrl: 'https://www.linkedin.com/in/raghwendra-pratap-singh-76b0b0363/',
+      githubUrl: 'https://github.com/Raghwendrapratapsingh2005',
       icon: <ShoppingBag className="w-6 h-6 text-cyber-cyan" />,
       accentColor: 'cyber-cyan',
       glowShadow: 'hover:shadow-neon-cyan hover:border-cyber-cyan border-cyan-500/20',
@@ -34,7 +34,8 @@ export default function Projects({ darkMode }) {
         'Integration with electronic health records (EHR) systems'
       ],
       tech: ['React.js', 'HTML5', 'Tailwind CSS3','Jquery'],
-      githubUrl: 'https://www.linkedin.com/in/raghwendra-pratap-singh-76b0b0363/',
+      deployUrl: 'https://6a1b258149268e7fecb79dba--super-otter-32abd1.netlify.app/',
+      githubUrl: 'https://github.com/Raghwendrapratapsingh2005',
       icon: <Globe className="w-6 h-6 text-neon-magenta" />,
       accentColor: 'neon-magenta',
       glowShadow: 'hover:shadow-neon-magenta hover:border-neon-magenta border-magenta-500/20',
